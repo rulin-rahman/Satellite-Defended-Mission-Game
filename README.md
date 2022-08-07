@@ -1,1 +1,1 @@
-# project-ru
+# Satellite Defended Mission Game
